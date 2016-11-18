@@ -1,0 +1,97 @@
+/*body{
+    background-color: #9fdf9f;
+}*/
+.nav1{
+    position: fixed;
+}
+.dash{
+    position: fixed;
+    margin-top: 52px;
+
+}
+.dash ul {
+    margin: 0;
+    padding: 0;
+    width: 200px;
+    background-color: #f1f1f1;
+    position: fixed;
+    width: 250px;
+}
+.dash li{
+    
+    padding: 10px;
+}
+li a {
+    display: block;
+    color: #000;
+    padding: 8px 16px;
+    text-decoration: none;
+}
+
+/* Change the link color on hover */
+li a:hover {
+    background-color: #555;
+    color: white;
+}
+.dashboard{
+    width: 600px;
+    height: 500px;
+    margin-left: 220px;
+    margin-top: -140px;
+   
+}
+.h1{
+    padding-right: 220px; 
+    padding-top: 200px;    
+}
+.sheet{
+    width: 600px;
+    height: 650px;
+    margin-left: 220px;
+    padding-top: 50px;
+    
+}
+
+.user{
+    width: 600px;
+    height: 500px;
+    margin-left: 220px;
+    
+    
+}
+.modal-body input{
+    width: 250px;
+    height: 40px;
+    border-radius: 4px;
+    border: 2px solid #e7e7e7;
+}
+#btn{
+    background-color:#2c3e50;
+   color:white;
+   padding:5px 8px;
+   font-weight: bold;
+   border-radius: 6px;
+   /*border: 1px solid #3079ed */
+   margin:5px 8px;
+   border:none;
+}
+
+/*#btn:hover{  background-color:#404040 ; }*/
+#btn:hover{
+    color:#95C233;
+    background: #2D3E50;
+}
+@media only screen and (min-width:200px; max-width: 400px;) {
+   #body {
+       background-color: lightblue;
+       max-width: 300px;
+   }
+   .dash{
+    margin-top: 140px;
+    }
+    .dashboard {
+        margin-top: -100px;
+       
+    }
+
+}

@@ -1,0 +1,72 @@
+#big {
+	font-size: 40px;
+}
+#danger {
+	background-color: red;
+}
+.we {
+	margin-top: 30px;
+	width: %;
+}
+.bod {
+	/*width: 250px;*/
+	border: 1px solid white;
+	/*margin: 15px;*/
+	/*padding: 5px;*/
+}
+/*.len {
+	width: 100%;
+}*/
+img {
+	transition: all .3s ease-in-out;
+}
+img:hover {
+	transform: scale(1.4);
+}
+.foot {
+
+	height: 20px;
+	background-color: black;
+	color: white;
+}
+.yoou {
+	width: 80%;
+}
+.nan {
+	width: 40px;
+	height: 40px;
+}
+.sneek {
+	margin-top: -40px;
+	height: px;
+	background-image: url("../img/backgroundd.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%; 
+}
+/*.forsneak {
+	margin-top: 100px;
+}*/
+.fortext {
+	color: #fff;
+	padding-top:70px;
+}
+/* ==========================================================================
+   Author's custom styles
+   ========================================================================== */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
